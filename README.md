@@ -1,4 +1,4 @@
-<h1>Hello there!</h1>
+<h1>Hello there!😉</h1>
 
 Welcome to my github! </br> I'm Yang, and have been pursuing career as a __full-stack developer__ since 2018.
 
@@ -49,7 +49,7 @@ Welcome to my github! </br> I'm Yang, and have been pursuing career as a __full-
     <tr border: none;>
       <td><b>📽️ Projects</b></td>
       <td><b>🛠️ Tools</b></td>
-      <td><b>📚 Description</b></td>
+      <td><b>📚 Features</b></td>
     </tr>
   </thead>
   <tbody>
@@ -62,6 +62,7 @@ Welcome to my github! </br> I'm Yang, and have been pursuing career as a __full-
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
           <img alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </td>
       <td>
         <ul>
@@ -72,29 +73,73 @@ Welcome to my github! </br> I'm Yang, and have been pursuing career as a __full-
       </td>
     </tr>
     <tr>
-      <td><a href=""><b></b></a></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/NorthstarWang/Juncus.tech"><b>Google Form Submitter</b></a></td>
+      <td>
+      
+  <img alt="Chart" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
+  <img alt="Socket" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></td>
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
+      <td>
+      <ul>
+        <li>Automated mass submitting google form</li>
+        <li>Customize submission batch distribution</li>
+        <li>Generate chart visualization</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td><a href=""><b></b></a></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/NorthstarWang/NYP-Journey"><b>Smart school campus platform</b></a></td>
+      <td>
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> </td>
+      <td>
+      <ul>
+        <li>Wallet to monitor credit transactions</li>
+        <li>Question&Answer forum with credit reward and upvote/downvote mechanism</li>
+        <li>Backend management Interface which can manage users' data and generate data statistics chart/reports</li>
+        <li>Notification menu to send any actions user take</li>
+        <li>Online book shop to purchase textbook using campus credit</li>
+        <li>Invitation code to invite friend to join the campus network and claim reward</li>
+        <li>Campus credit Top-up system via Paypal sandbox</li>
+        <li>Ranking system to pin the best user among any system</li>
+        </ul></td>
     </tr>
     <tr>
-      <td><a href=""><b></b></a></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/NorthstarWang/Fitness-for-life"><b>Fitness For Life</b></a></td>
+      <td>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+      </td>
+      <td>
+      <ul>
+        <li>Provide useful articles that can help you stay fit</li>
+        <li>Monitor your weight and BMI and give you diet and exercise advice</li>
+        <li>Calculate your daily intake calorie</li>
+        <li>Calculate your daily exercise</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td><a href=""><b></b></a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href=""><b></b></a></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/NorthstarWang/Ledger"><b>Ledger</b></a></td>
+      <td>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+      <td>
+      <ul>
+        <li>Input transactions history to ledger and generate excel/pdf</li>
+        <li>Ledger file management system that help to manage multiple books in tree view</li>
+        </ul></td>
     </tr>
   </tbody>
 </table>
