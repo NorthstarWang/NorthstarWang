@@ -1,6 +1,6 @@
 <h1>Hello there!😉</h1>
 
-Welcome to my github! </br> I'm Yang, and have been pursuing career as a __full-stack developer__ since 2018.
+Welcome to my github! </br> I'm Yang.
 
 - 👨‍🎓 I am an honor computer science student currently studying in [University of Alberta](https://www.ualberta.ca/index.html).
 - 🧑🏻‍💻 I have been pursuing career as a __full-stack developer__ since 2018.
