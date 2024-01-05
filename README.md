@@ -3,7 +3,7 @@
 Welcome to my github! </br> I'm Yang.
 
 - 👨‍🎓 I am an honor computer science student currently studying in [University of Alberta](https://www.ualberta.ca/index.html).
-- :man_technologist: I am a current intern at __Kinaxis__ Devops and an upcoming SDE intern in __Amazon__.
+- :man_technologist: I am a current intern at __Aptum__ as a Cloud Developer, with prior working experience as a DevOps intern at __Kinaxis__, a SDE intern at __Amazon__ and a SDE intern at __BlackBerry__.
 - 🧑🏻‍💻 I have been pursuing freelance career as a __full-stack web developer__ expertised in MEVN/MERN stack since 2018(First on-record employed position), and I'm currently working with [ZS-tech Service](https://www.zs-tech.ca/) and [XL-business](https://www.xlsbs.ca/) to expand their business.
 - ♂ Pronouns: he/him
 
