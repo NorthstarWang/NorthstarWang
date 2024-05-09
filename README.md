@@ -5,7 +5,7 @@ Welcome to my github! </br> I'm Yang.
 - 👨‍🎓 I am an honor computer science student currently studying in [University of Alberta](https://www.ualberta.ca/index.html).
 - :man_technologist: I am a current intern at __AltaMl__ as a Associate Software Developer, with prior working experience as a DevOps intern at __Kinaxis__, a SDE intern at __Amazon__, a SDE intern at __BlackBerry__, and a Cloud Developer at __Aptum__.
 - 🧑🏻‍💻 I have been pursuing freelance career as a __full-stack web developer__ expertised in MEVN/MERN stack since 2018(First on-record employed position), and I had collaborated with [ZS-tech Service](https://www.zs-tech.ca/) and [XL-business](https://www.xlsbs.ca/).
-- :man_technologist: I am also the Director and Co-Founder of a startup non-profit organization, [EcoSci](https://www.ecosci.tech/), dedicated to advancing environmental and scientific solutions. 
+- :man_office_worker: I am also the Director and Co-Founder of a startup non-profit organization, [EcoSci](https://www.ecosci.tech/), dedicated to advancing environmental and scientific solutions. 
 - ♂ Pronouns: he/him
 
 <h3>Languages I mainly use</h3>
