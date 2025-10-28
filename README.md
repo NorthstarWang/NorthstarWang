@@ -1,10 +1,10 @@
 <h1>Hello there!😉</h1>
 
-Welcome to my github! </br> I'm Yang.
+Welcome to my GitHub! </br> I'm Yang.
 
-- 👨‍🎓 I am an honor computer science student currently studying in [University of Alberta](https://www.ualberta.ca/index.html).
-- :man_technologist: I am a current intern at __AltaML__ as a Associate Software Developer, with prior working experience as a DevOps intern at __Kinaxis__, a SDE intern at __Amazon__, a SDE intern at __BlackBerry__, and a Cloud Developer at __Aptum__.
-- 🧑🏻‍💻 I have been pursuing freelance career as a __full-stack web developer__ expertised in MEVN/MERN stack since 2018(First on-record employed position), and I had collaborated with [ZS-tech Service](https://www.zs-tech.ca/) and [XL-business](https://www.xlsbs.ca/). 
+- :man_technologist: I am currently working as a Exceptional Software Engineer with __Anthropic__ via __Mercor__, and serving as a __Squad Leader__ and __Oracle__ on the __Scale AI Outlier__ platform.
+- 🧑🏻‍💻 I am a __Software Developer__ at __AltaML__, with prior experience as a DevOps Engineer at __Kinaxis__, a SDE at __Amazon__, a SDE at __BlackBerry__, and a Cloud Developer at __Aptum__.
+- 💼 I have been pursuing a freelance career as a __full-stack web developer__ expertised in MEVN/MERN stack since 2018, and I have collaborated with [ZS-tech Service](https://www.zs-tech.ca/) and [XL-business](https://www.xlsbs.ca/). 
 - ♂ Pronouns: He/Him
 
 <h3>Languages I mainly use</h3>
