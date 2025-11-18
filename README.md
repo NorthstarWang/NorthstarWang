@@ -58,6 +58,99 @@ Welcome to my GitHub! </br> I'm Yang.
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/NorthstarWang/fintech-banking-app"><b>BankFlow</b></a></td>
+      <td>
+  <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      </td>
+      <td>
+      <ul>
+        <li>Multi-account banking platform supporting checking, savings, credit cards, and investments</li>
+        <li>AI-powered transaction categorization and spending insights</li>
+        <li>Budget tracking with automated savings and financial goal management</li>
+        <li>Peer-to-peer payments with QR code support and group expense splitting</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NorthstarWang/project-management-platform"><b>Project Management Platform</b></a></td>
+      <td>
+  <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+      </td>
+      <td>
+      <ul>
+        <li>Full-stack project management system with board and task management</li>
+        <li>Role-based access control with dynamic team management</li>
+        <li>Real-time activity tracking and comprehensive audit logging</li>
+        <li>Advanced search and filtering capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NorthstarWang/social-distribution"><b>Social Distribution</b></a></td>
+      <td>
+  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Cloudinary" src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+      </td>
+      <td>
+      <ul>
+        <li>Full-stack social networking platform with user authentication</li>
+        <li>GitHub OAuth integration for secure login</li>
+        <li>Media management with cloud storage integration</li>
+        <li>RESTful API architecture for scalable communication</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NorthstarWang/CMPUT401-Hackathon"><b>JobTracker</b></a></td>
+      <td>
+  <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </td>
+      <td>
+      <ul>
+        <li>Centralized job application tracking with status management</li>
+        <li>Master resume system with position-specific customization</li>
+        <li>Advanced search and filtering for quick application lookup</li>
+        <li>Dark/light theme support with responsive mobile design</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NorthstarWang/Fitness-for-life"><b>Fitness For Life</b></a></td>
+      <td>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+      </td>
+      <td>
+      <ul>
+        <li>Provide useful articles that can help you stay fit</li>
+        <li>Monitor your weight and BMI and give you diet and exercise advice</li>
+        <li>Calculate your daily intake calorie</li>
+        <li>Calculate your daily exercise</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/NorthstarWang/IndoorTrainer"><b>Indoor Trainer</b></a></td>
       <td>
           <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
@@ -79,13 +172,13 @@ Welcome to my GitHub! </br> I'm Yang.
     <tr>
       <td><a href="https://github.com/NorthstarWang/Juncus.tech"><b>Google Form Submitter</b></a></td>
       <td>
-      
+
   <img alt="Chart" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
   <img alt="Socket" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
       </td>
       <td>
       <ul>
@@ -118,24 +211,6 @@ Welcome to my GitHub! </br> I'm Yang.
         </ul></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NorthstarWang/Fitness-for-life"><b>Fitness For Life</b></a></td>
-      <td>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-      </td>
-      <td>
-      <ul>
-        <li>Provide useful articles that can help you stay fit</li>
-        <li>Monitor your weight and BMI and give you diet and exercise advice</li>
-        <li>Calculate your daily intake calorie</li>
-        <li>Calculate your daily exercise</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/NorthstarWang/Ledger"><b>Ledger</b></a></td>
       <td>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -147,81 +222,6 @@ Welcome to my GitHub! </br> I'm Yang.
       <ul>
         <li>Input transactions history to ledger and generate excel/pdf</li>
         <li>Ledger file management system that help to manage multiple books in tree view</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/NorthstarWang/project-management-platform"><b>Project Management Platform</b></a></td>
-      <td>
-  <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-      </td>
-      <td>
-      <ul>
-        <li>Full-stack project management system with board and task management</li>
-        <li>Role-based access control with dynamic team management</li>
-        <li>Real-time activity tracking and comprehensive audit logging</li>
-        <li>Advanced search and filtering capabilities</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/NorthstarWang/fintech-banking-app"><b>BankFlow</b></a></td>
-      <td>
-  <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-      </td>
-      <td>
-      <ul>
-        <li>Multi-account banking platform supporting checking, savings, credit cards, and investments</li>
-        <li>AI-powered transaction categorization and spending insights</li>
-        <li>Budget tracking with automated savings and financial goal management</li>
-        <li>Peer-to-peer payments with QR code support and group expense splitting</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/NorthstarWang/CMPUT401-Hackathon"><b>JobTracker</b></a></td>
-      <td>
-  <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-      </td>
-      <td>
-      <ul>
-        <li>Centralized job application tracking with status management</li>
-        <li>Master resume system with position-specific customization</li>
-        <li>Advanced search and filtering for quick application lookup</li>
-        <li>Dark/light theme support with responsive mobile design</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/NorthstarWang/social-distribution"><b>Social Distribution</b></a></td>
-      <td>
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Cloudinary" src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-      </td>
-      <td>
-      <ul>
-        <li>Full-stack social networking platform with user authentication</li>
-        <li>GitHub OAuth integration for secure login</li>
-        <li>Media management with cloud storage integration</li>
-        <li>RESTful API architecture for scalable communication</li>
         </ul>
       </td>
     </tr>
