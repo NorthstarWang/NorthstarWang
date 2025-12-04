@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! </br> I'm Yang.
 
-- :man_technologist: I am currently working as a Exceptional Software Engineer with __Anthropic__ via __Mercor__, and serving as a __Squad Leader__ and __Oracle__ on the __Scale AI Outlier__ platform.
+- :man_technologist: I am currently working as a Exceptional Software Engineer with __Mercor__, and serving as a __Squad Leader__ and __Oracle__ on the __Scale AI Outlier__ platform.
 - 🧑🏻‍💻 I am a __Software Developer__ at __AltaML__, with prior experience as a DevOps Engineer at __Kinaxis__, a SDE at __Amazon__, a SDE at __BlackBerry__, and a Cloud Developer at __Aptum__.
 - 💼 I have been pursuing a freelance career as a __full-stack web developer__ expertised in MEVN/MERN stack since 2018, and I have collaborated with [ZS-tech Service](https://www.zs-tech.ca/) and [XL-business](https://www.xlsbs.ca/). 
 - ♂ Pronouns: He/Him
